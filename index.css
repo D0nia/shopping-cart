@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to bottom right, #080808 10%, #0d2517 100%);
+}
+.img{ 
+
+    width: 10%
+    
+}
+.header{
+    text-shadow: 2px 2px 4px #ada1a1;
+    padding-bottom: 50px;
+    color: #0d2517;
+}
+.merch{
+    width: 280px;
+    height:280px;
+    padding-bottom: 10px;
+  
+}
+p, h1{
+    font-size: 40px;
+    color:  #0d2517;
+    text-shadow: 4px 4px 4px #0d2517;
+}
+p, span{
+    color: #023054;
+}
+
+.tot{
+    font-size:110%;
+   
+}
+.chibi{
+    width: 30%;
+}
+.jumbotron{
+    background: lightsteelblue  !important;
+    
+  
+
+}
+
+
+
